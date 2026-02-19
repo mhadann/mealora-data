@@ -27,18 +27,5 @@
     "imageName": "Lavolia_Pizzeria_cover",
     "Logimage": "Lavolia_Pizzeria_logo"
   },
-  {
-    "id": "7E6E5A6E-7F0B-4A2F-9F12-333333333333",
-    "restaurantName": "Möllans Pizzeria",
-    "title": "pizza lunch",
-    "meals": 10,
-    "price": 750,
-    "durationDays": 30,
-    "aktqrCode": "aktMöllans-Pizzeria-qr",
-    "mealqrCode": "mealMöllans-Pizzeria-qr",
-    "discountText": "Du sparar 30%",
-    "subtitle": "prova på Möllans Pizzeria",
-    "imageName": "Möllans_Pizzeria_cover",
-    "Logimage": "Möllans_Pizzeria_logo"
-  }
+
 ]
