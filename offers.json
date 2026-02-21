@@ -10,8 +10,8 @@
     "mealqrCode": "mealbella-italia-qr",
     "discountText": "Du sparar 30%",
     "subtitle": "Den här restaurangen är bra",
-    "imageName": "bella_italia_cover",
-    "Logimage": "bella_italia_logo"
+    "imageName": "https://raw.githubusercontent.com/mhadann/mealora-data/main/images/bella_italia_cover.jpg",
+    "Logimage": "https://raw.githubusercontent.com/mhadann/mealora-data/main/images/bella_italia_logo.jpg"
   },
   {
     "id": "7E6E5A6E-7F0B-4A2F-9F12-222222222222",
@@ -24,8 +24,8 @@
     "mealqrCode": "mealLavolia-Pizzeria-qr",
     "discountText": "Du sparar 30%",
     "subtitle": "Smaka på det bästa hos Lavolia Pizzeria i Malmö!",
-    "imageName": "Lavolia_Pizzeria_cover",
-    "Logimage": "Lavolia_Pizzeria_logo"
+    "imageName": "https://raw.githubusercontent.com/mhadann/mealora-data/main/images/bella_italia_cover.jpg",
+    "Logimage": "https://raw.githubusercontent.com/mhadann/mealora-data/main/images/bella_italia_logo.jpg"
   },
 
 ]
