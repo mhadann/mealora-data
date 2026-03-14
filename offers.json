@@ -27,20 +27,7 @@
     "imageName": "https://raw.githubusercontent.com/mhadann/mealora-data/main/images/bella_italia_cover.jpg",
     "Logimage": "https://raw.githubusercontent.com/mhadann/mealora-data/main/images/Lavolia%20Pizzeria%20logo.jpg"
   },
-  {
-    "id": "7E6E5A6E-7F0B-4A2F-9F12-222222222222",
-    "restaurantName": "min speciala pizaria",
-    "title": "kyckling pizza",
-    "meals": 10,
-    "price": 700,
-    "durationDays": 30,
-    "aktqrCode": "aktLavolia-Pizzeria-qr",
-    "mealqrCode": "mealLavolia-Pizzeria-qr",
-    "discountText": "Du sparar 30%",
-    "subtitle": "Smaka på det bästa hos Lavolia Pizzeria i Malmö!",
-    "imageName": "https://raw.githubusercontent.com/mhadann/mealora-data/main/images/bella_italia_cover.jpg",
-    "Logimage": "https://raw.githubusercontent.com/mhadann/mealora-data/main/images/Lavolia%20Pizzeria%20logo.jpg"
-  },
+
 
 
 ]
